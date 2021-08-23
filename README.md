@@ -1,6 +1,7 @@
 ### Hi, I'm Heejong in AWS Proserve Team 👋
 
-#### I have been working on developing and consulting the modern application journey with customer. 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **HeejongLee-aws/HeejongLee-aws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
